@@ -12,7 +12,7 @@
         android:layout_height="0dp"
         android:layout_weight="8"
         android:text="0"
-        android:textSize="80dp"
+        android:textSize="80sp"
         android:id="@+id/txt"
         android:gravity="center"
         android:background="@color/grey"
