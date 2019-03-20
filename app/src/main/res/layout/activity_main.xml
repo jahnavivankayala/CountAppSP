@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/black"
             android:background="@color/black"
-            android:text="Black"
+            android:text="BlackText"
             android:textColor="#ffffff"
             android:onClick="black"/>
         <Button
